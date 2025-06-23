@@ -1,0 +1,84 @@
+[33mcommit 336a02905155372ae10544f1778a8ef201c92909[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Mon Jun 23 10:23:58 2025 +0530
+
+    removed api keys
+
+[33mcommit c13534be48d3035d28d62a131224b797a5679b82[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Mon Jun 23 10:18:16 2025 +0530
+
+    added some more notebooks and backend codes updated
+
+[33mcommit 869e73120f8a36b97a319545625c214a4134d696[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Mon Jun 23 07:28:30 2025 +0530
+
+    added YT Plugin Backend
+
+[33mcommit 5c802bae37b237843f27a195a260b4e2df874e2b[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Mon Jun 23 06:42:36 2025 +0530
+
+    experimenting
+
+[33mcommit 908e5dfa759434b8dc0c717e1ad3a28cfa479082[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Mon Jun 23 06:15:14 2025 +0530
+
+    Checked the project by parameters changing
+
+[33mcommit 1776d31a7b9dfc4edf546710650ad051e571f94b[m
+Merge: 53c46ab b2c7348
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Sun Apr 13 10:07:02 2025 +0530
+
+    Merge branch 'master' of https://github.com/Shrijeet14/SentiFuse
+
+[33mcommit 53c46ab65fd4f0dc9d7f7c71a824fadc589c1371[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Sun Apr 13 10:05:47 2025 +0530
+
+    added model files also
+
+[33mcommit b2c734838c615961094cf91464175fedccc0b620[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Sat Apr 12 16:53:54 2025 +0530
+
+    Updated README.md
+
+[33mcommit 9e6688f8299225d10824be7094b756fa8d19eb46[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Sat Apr 12 16:50:34 2025 +0530
+
+    added readme img file
+
+[33mcommit 1428537c982a1dd967ef5b54de0182f59a544258[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Sat Apr 12 16:48:08 2025 +0530
+
+    Updated Readme file
+
+[33mcommit 557f71fbf84b08347ce4cdff6615dd0d3707acaa[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Thu Apr 10 08:18:27 2025 +0530
+
+    Updated the codes
+
+[33mcommit d933bd5db84bd3c101c2860f95a315f192e4f91f[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Thu Apr 10 07:54:03 2025 +0530
+
+    added AWS s3 Bucket
+
+[33mcommit 8d390c42fc53f383e5748760fba7cbe1f57ff7b3[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Thu Apr 10 07:40:52 2025 +0530
+
+    Updated files and reproduced the entire pipeline
+
+[33mcommit 0ac5ce180ae0bd29f1d63d4e005489ffb29cb42f[m
+Author: shrijeet kumar <127421688+Shrijeet14@users.noreply.github.com>
+Date:   Thu Apr 10 06:33:02 2025 +0530
+
+    Initial commit
